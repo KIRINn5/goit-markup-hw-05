@@ -816,7 +816,7 @@ header nav {
 }
 
 .checkbox-label {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   margin: 0;
   color: var(--LIGHT-SLATE, #8e8f99);
