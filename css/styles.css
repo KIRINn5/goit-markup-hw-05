@@ -803,6 +803,7 @@ header nav {
 }
 
 .modal-icon {
+  fill: #2e2f42;
   position: absolute;
   width: 18px;
   top: 50%;
@@ -845,7 +846,6 @@ header nav {
 }
 
 .icon-checkbox-agree {
-  height: 16px;
   fill: transparent;
   stroke-width: 1px;
   stroke: #fcfcfc;
